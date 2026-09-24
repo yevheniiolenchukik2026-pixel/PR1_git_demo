@@ -1,2 +1,2 @@
 #include <iostream>
-int main() { std::cout << "Hello, world! (feature)"; return 0; }
+int main() { std::cout << "Hello, world! (feature v2)"; return 0; }
